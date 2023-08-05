@@ -1,7 +1,7 @@
-# LogicalAndroid
+## LogicalAndroid
 
-### Данное мобильное приложение создано на языке Kotlin для понимания логики работы конструкций if else.<br>
-### This mobile app is created in the language Kotlin to understand the logic of work of constructions if else.<br>
+#### Данное мобильное приложение создано на языке Kotlin для понимания логики работы конструкций if else.<br>
+#### This mobile app is created in the language Kotlin to understand the logic of work of constructions if else.<br>
 1. У нас имеется 3 человека<br>
 2. Каждый из них имеет свой уникальный пароль и имя.<br>
 3. При вводе верных данных программа выводит сумму зарплаты этого человека. <br>
